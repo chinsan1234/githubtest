@@ -2,8 +2,7 @@ Devops training purpose
 hello world
 how are you
 
-new line added to check branch 2
 adding line for checking branch feature
 
 
-adding line to check merge
+adding line for merge feature
