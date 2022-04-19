@@ -11,3 +11,6 @@ adding line to check merge
 adding line to check pull through github
 
 adding a line to check new branch in github
+
+adding line to check push to git hub
+by creating a new branch in local repo
